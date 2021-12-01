@@ -21,7 +21,6 @@ async function processFile() {
       // console.log(`${i} == ${j} -- no increase`);
     }
     i = j;
-    // console.log(`Received: ${line}`);
   }
 
   return count;
